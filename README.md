@@ -1,2 +1,1 @@
-Must be upgrade depend this article:
-https://firebase.google.com/docs/auth/admin/verify-id-tokens
+Combine with https://github.com/akaday/vue-firebase-social-auth to test
